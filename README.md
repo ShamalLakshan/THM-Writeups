@@ -9,3 +9,6 @@
 - [OhSINT](./OhSINT/Writeup.md)
 - [Cicada 3301 Vol:1](./Cicada-3301-Vol:1/Writeup.md)
 - [Google Dorking](./Google-Dorking/Writeup.md)
+- [Linux Fundamentals Part 1](./Linux-Fundamentals-Part-1/Writeup.md)
+- [Linux Fundamentals Part 2](./Linux-Fundamentals-Part-2/Writeup.md)
+- [Linux Fundamentals Part 3](./Linux-Fundamentals-Part-3/Writeup.md)
