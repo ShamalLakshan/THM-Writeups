@@ -6,3 +6,6 @@
 - [Metasploit](./Metasploit/Writeup.md)
 - [Hydra](./Hydra/Writeup.md)
 - [Crack The Hash](./Crack-The-Hash/Writeup.md)
+- [OhSINT](./OhSINT/Writeup.md)
+- [Cicada 3301 Vol:1](./Cicada-3301-Vol:1/Writeup.md)
+- [Google Dorking](./Google-Dorking/Writeup.md)
