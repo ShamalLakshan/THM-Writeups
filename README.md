@@ -14,4 +14,4 @@
 - [Linux Fundamentals Part 3](./Linux-Fundamentals-Part-3/Writeup.md)
 - [Ice](./Ice/Writeup.md)
 
- <script src="https://tryhackme.com/badge/802742"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ShamalLakshan.png" alt="TryHackMe">
